@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 1200px;
+  margin: 5px auto;
+  padding: 26px 20px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.title {
+  font-weight: bold;
+  color: #b94841;
+  text-align: center;
+}
